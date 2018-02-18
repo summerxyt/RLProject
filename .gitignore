@@ -1,0 +1,4 @@
+*.pyc
+
+coinbaseUSD*
+*egg-info*
